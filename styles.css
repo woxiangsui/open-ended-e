@@ -1,0 +1,16 @@
+h1 {
+  text-decoration: underline;
+  font-style: bold;
+  font-size: 21px;
+}
+ul {
+  border: solid black 1px;
+}
+li:hover {
+  color: white;
+  background-color: black;
+}
+li {
+  color: black;
+  background: white;
+}
